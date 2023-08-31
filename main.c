@@ -2,6 +2,7 @@
 int main() {
     int number1,number2,sum;
 
+    // this is archit
     printf("enter the numbers:");
     scanf("%d %d",&number1,&number2);
 
